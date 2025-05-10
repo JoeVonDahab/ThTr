@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.ncbi.nlm.nih.gov/snp/?term=slc19a2
+HostUrl=https://www.ncbi.nlm.nih.gov/portal/utils/file_backend.cgi?Db=snp&HistoryId=MCID_68190fe4f7ba4369649a7eee&QueryKey=3&Sort=SNP_ID&Filter=all&CompleteResultCount=9644&Mode=file&View=Tab&p$l=Email&portalSnapshot=%2Fprojects%2FSNP%2FSNP%401.56&BaseUrl=&PortName=live&FileName=
